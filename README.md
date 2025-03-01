@@ -11,3 +11,5 @@ este script sirve para el ayuntamineto con el texto 3D para Fivem
 🟢 puedes poner diferentes sitios de texto 3D en el Config.lua
 
 espero que os guste 
+
+Si necesitais ayuda me podeis escribir a mi Discord : zer01.dev 
