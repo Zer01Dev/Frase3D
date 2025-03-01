@@ -1,16 +1,13 @@
-## Hi there 👋
+Frase 3D
 
-<!--
-**Zer01Dev/Zer01Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+este script sirve para el ayuntamineto con el texto 3D para Fivem
 
-Here are some ideas to get you started:
+🟢 ESX Y QB  cambiandolo en el config.lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🟢 client y server optimizado 
+
+🟢 0,00 mms de inactividad  y actividad
+
+🟢 puedes poner diferentes sitios de texto 3D en el Config.lua
+
+espero que os guste 
